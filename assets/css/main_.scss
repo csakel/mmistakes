@@ -3,9 +3,6 @@
 ---
 
 @charset "utf-8";
-// $link-color: #8F001E;
-$link-color: #807F7F;
-
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
